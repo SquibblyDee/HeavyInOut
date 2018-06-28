@@ -31,6 +31,7 @@
     background-image: url("img/flower1.png");
     background-size: cover;
     background-repeat: no-repeat;
+    background-position: bottom;
     
 }
 
@@ -43,6 +44,7 @@
     background-image: url("img/flower2.png");
     background-size: cover;
     background-repeat: no-repeat;
+    background-position: bottom;
 }
 
 .picture3{
@@ -54,6 +56,7 @@
     background-image: url("img/flower3.png");
     background-size: cover;
     background-repeat: no-repeat;
+    background-position: bottom;
 }
 
 .picture4{
@@ -65,5 +68,6 @@
     background-image: url("img/flower4.png");
     background-size: cover;
     background-repeat: no-repeat;
+    background-position: bottom;
 }
 
